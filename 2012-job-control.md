@@ -2,7 +2,7 @@ Date: 2012-4-30
 Title: Linux作业管理笔记
 Slug: job-control-note
 Tags: job-control, note
-Category: tools
+Category: Tools
 
 作业管理
 ========
